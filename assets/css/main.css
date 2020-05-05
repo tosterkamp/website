@@ -3386,6 +3386,7 @@ input, select, textarea {
 
 				#header.alt .logo h1 {
 					color: white;
+					font-family:fantasy;
 				}
 
 		@media screen and (max-width: 1280px) {

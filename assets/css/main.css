@@ -3378,6 +3378,19 @@ input, select, textarea {
 				margin: 0 0 1.5em 0;
 			}
 
+			#header.alt .back {
+				-moz-transition: opacity 1.25s ease, -moz-transform 0.5s ease;
+				-webkit-transition: opacity 1.25s ease, -webkit-transform 0.5s ease;
+				-ms-transition: opacity 1.25s ease, -ms-transform 0.5s ease;
+				transition: opacity 1.25s ease, transform 0.5s ease;
+				-moz-transition-delay: 0s;
+				-webkit-transition-delay: 0s;
+				-ms-transition-delay: 0s;
+				transition-delay: 0s;
+				display: block;
+				margin: 0 0 1.5em 0;
+			}
+
 				#header.alt .logo img {
 					display: block;
 					margin: 0 auto;

@@ -3381,7 +3381,7 @@ input, select, textarea {
 				#header.alt .logo img {
 					display: block;
 					margin: 0 auto;
-					max-width: 5%;
+					max-width: 50%;
 				}
 
 		@media screen and (max-width: 1280px) {

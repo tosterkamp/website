@@ -4031,11 +4031,8 @@ input, select, textarea {
 			border: 0;
 			color: rgba(255, 255, 255, 0.35);
 			display: inline-block;
-			font-size: 0.6em;
-			font-weight: bold;
-			letter-spacing: 0.25em;
-			text-transform: uppercase;
 			border-bottom: none;
+			text-align: right;
 		}
 
 			.lang{

@@ -4026,3 +4026,17 @@ input, select, textarea {
 			}
 
 		}
+
+		#sidebar > .inner > a {
+			border: 0;
+			color: rgba(255, 255, 255, 0.35);
+			display: inline-block;
+			font-size: 0.6em;
+			font-weight: bold;
+			letter-spacing: 0.25em;
+			text-transform: uppercase;
+		}
+
+			#sidebar > .inner > a:hover {
+				color: rgba(255, 255, 255, 0.55);
+			}

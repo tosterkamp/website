@@ -4032,7 +4032,6 @@ input, select, textarea {
 			color: rgba(255, 255, 255, 0.35);
 			display: inline-block;
 			border-bottom: none;
-			text-align: right;
 		}
 
 			.lang{

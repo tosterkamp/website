@@ -4027,7 +4027,7 @@ input, select, textarea {
 
 		}
 
-		#sidebar .inner a {
+		#sidebar > a .lang {
 			border: 0;
 			color: rgba(255, 255, 255, 0.35);
 			display: inline-block;
@@ -4037,6 +4037,6 @@ input, select, textarea {
 			text-transform: uppercase;
 		}
 
-			#sidebar .inner a:hover {
+			#sidebar > a:hover .lang{
 				color: rgba(255, 255, 255, 0.55);
 			}

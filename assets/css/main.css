@@ -4035,6 +4035,7 @@ input, select, textarea {
 			font-weight: bold;
 			letter-spacing: 0.25em;
 			text-transform: uppercase;
+			border-bottom: none;
 		}
 
 			#sidebar > a:hover .lang{
